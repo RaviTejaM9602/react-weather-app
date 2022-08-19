@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+# React Weather App
+Creation of weather app where we can find any city around the world weather condition 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A demo website for weather app.
 
-## Available Scripts
+## Built With
 
-In the project directory, you can run:
+React Hooks (useState, useEffect, useRef)
+CSS
+JSX
+Functional Components 
+Conditional Rendering 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Server
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+In the following link, you can view (Coming Soon)).
 
-### `npm test`
+## Screenshot
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![React_Weather_App]()
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**This is an example of how you may give instructions on setting up your project locally.**
+## Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Browser
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Any modern browser works! :smile:
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Knowledge
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Basic knowledge of the terminal and git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Getting Started
 
-## Learn More
+To get a local copy follow these steps:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Clone the repo by typing on your terminal
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+git clone (https://github.com/RaviTejaM9602/react-weather-app)
+```
 
-### Code Splitting
+2. Access the repo with
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+cd Conference
+```
 
-### Analyzing the Bundle Size
+3. Clone the Repo or Download the Zip file
+Run the live server or simply open index.html with your browser.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
+code .
+```
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Authors
 
-### Advanced Configuration
+👤 **Ravi Teja M**
+- GitHub: [@githubhandle](https://github.com/RaviTejaM9602/Awesome_Books)
+- Twitter: [@twitterhandle](https://twitter.com/RaviTejaMekala1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ravi-teja-8499a31b9/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🤝 Contributing
 
-### Deployment
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Feel free to check the [issues page](../../issues/).
 
-### `npm run build` fails to minify
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Original design idea by [Microverse](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek_v1_1.md).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+Ravi Teja
