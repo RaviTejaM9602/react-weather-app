@@ -3,8 +3,9 @@ import React, { useEffect, useState } from "react";
 import "./App.css";
 import LoaderComponent from "./Components/LoaderComponent";
 import SearchBar from "./Components/SearchBar";
-// import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import ResultComponent from "./Components/ResultComponent";
+
 
 function App() {
   const [city,setCity] = useState('');
