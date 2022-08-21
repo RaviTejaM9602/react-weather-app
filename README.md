@@ -1,39 +1,35 @@
 # React Weather App
-Creation of weather app where we can find any city around the world weather condition 
+Creation of weather app where we can find wheather condition of  any city around the world.
+![Weather App](./public/Images/cloud-moon-fill.svg)
 
-> A demo website for weather app.
+### Demo - Deployed over Vercel
+react-weather-app-sable.vercel.app
 
 ## Built With
-
-React Hooks (useState, useEffect, useRef)
-CSS
-JSX
-Functional Components 
-Conditional Rendering 
-
-
-## Live Server
-
-In the following link, you can view (Coming Soon)).
+1. React Hooks (useState, useEffect, useRef).
+2. BootStrap.
+3. JSX.
+4. Functional Components. 
+5. Conditional Rendering.
+6. Forms.
 
 ## Screenshot
-
-![React_Weather_App]()
+![React_Weather_App](./public/Images/weather-app.png)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-## Prerequisites
+### APIs Used
+[Open Weather APIs](https://openweathermap.org/)
 
-### Browser
+https://openweathermap.org/current
 
-Any modern browser works! :smile:
+### API Info
+* Method: `GET`
+* URL: `https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}`
 
-
-### Knowledge
-
-Basic knowledge of the terminal and git
-
+### Libraries used
+* `axios`
+* `react-scripts`
 
 ### Getting Started
 
@@ -58,7 +54,7 @@ Run the live server or simply open index.html with your browser.
 code .
 ```
 
-
+### How can I appreciate this repo? 
 ## Authors
 
 👤 **Ravi Teja M**
@@ -71,10 +67,6 @@ code .
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
-
-## Acknowledgments
-
-- Original design idea by [Microverse](https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek_v1_1.md).
 
 ## Show your support
 
