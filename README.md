@@ -1,6 +1,6 @@
 # React Weather App
-Creation of weather app where we can find wheather condition of  any city around the world.
-![Weather App](./public/Images/cloud-moon-fill.svg)
+![Weather App](./public/Images/cloud-moon-fill.svg) Creation of weather app where we can find wheather condition of  any city around the world.
+
 
 ### Demo - Deployed over Vercel
 react-weather-app-sable.vercel.app
