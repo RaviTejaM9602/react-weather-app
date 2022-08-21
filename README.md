@@ -3,7 +3,7 @@
 
 
 ### Demo - Deployed over Vercel
-react-weather-app-sable.vercel.app
+https://react-weather-app-smoky.vercel.app
 
 ## Built With
 1. React Hooks (useState, useEffect, useRef).
