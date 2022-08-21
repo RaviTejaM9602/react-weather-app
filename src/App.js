@@ -50,7 +50,8 @@ function App() {
       status={status}
     />
     {/* {result.length !==0?  <ResultComponent result={result}/>: null} */}
-   {result.length !==0 &&  <ResultComponent/>}
+   {/* {result.length !==0 &&  } */}
+   <ResultComponent/>
   </div>
   );
 }
